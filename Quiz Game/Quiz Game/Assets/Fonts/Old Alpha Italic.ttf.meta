@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6293c0bedc10f9f42bd38e42b29c51f2
+timeCreated: 1500465941
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Old Alpha Italic
+  fontNames:
+  - Old Alpha Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

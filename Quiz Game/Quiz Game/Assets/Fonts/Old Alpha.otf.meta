@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 86871033692a1704d9d052ca6bc9dcc6
+timeCreated: 1500465941
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Old Alpha
+  fontNames:
+  - Old Alpha
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 51c6be1c45a184845800a47415fe6cdf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
